@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "websocket",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
